@@ -120,6 +120,42 @@ ans:
   decoding using the command base64 -dencoded_file_name > decoded_file_name.
   Flag: You Found The Flag.
   ![image](https://user-images.githubusercontent.com/113587483/226175489-bcc48754-f7d6-41c2-b595-efcfb0947b69.png)
+  
+  
+  12.
+( a.) Ping google.com and find the lowest time taken to get a response (Stop pinging after getting 5 responses)
+
+( b.) Ping google.com 6 times and find the average time taken to get a response
+ans:
+  ping google.com command is used.
+  ![image](https://user-images.githubusercontent.com/113587483/226190014-272a6118-5396-4fdb-9a2a-a31df4254dce.png)
+  ![image](https://user-images.githubusercontent.com/113587483/226190053-3fe8e4d9-c96c-4fa4-8429-651f55eeb684.png)
+  
+13. 
+Connect to your own system using telnet
+ans:
+  this can be done using the command telnet localhost.
+  ![image](https://user-images.githubusercontent.com/113587483/226191144-dd559836-5fcc-4129-ab16-52ee60c4102b.png)
+  ![image](https://user-images.githubusercontent.com/113587483/226191264-52359c17-678b-4cb7-85c9-c10f286c6955.png)
+
+14.
+( a.) Learn about nmap and use that scanner to scan your own machine
+( b.) Use nmap to scan scanme.nmap.org
+ans:
+  It is a special network address (127.0.0.1) that points back to the same device, allowing a client and server application to communicate    with each other on the same device without using an external network. This is often used for testing purposes and for local network services, such as a web server or database server running on a local machine.
+  ![image](https://user-images.githubusercontent.com/113587483/226191779-54614cbf-23d9-4c76-8f8d-9a97434be664.png)
+  ![image](https://user-images.githubusercontent.com/113587483/226191976-260c5ef1-1814-4bf8-b924-1cbcded35d3b.png)
+
+15.
+( a.) Create a chat application using nc on your local machine with one terminal as server and other as the client
+( b.) Transfer a file from server to client (save that file with another name) and display the file.
+ans:
+  ![image](https://user-images.githubusercontent.com/113587483/226194573-5312bac6-fc66-44f2-aeee-f122780a4ccf.png)
+
+
+
+
+
 
   
 

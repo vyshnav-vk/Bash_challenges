@@ -122,6 +122,14 @@ ans:
   ![image](https://user-images.githubusercontent.com/113587483/226175489-bcc48754-f7d6-41c2-b595-efcfb0947b69.png)
   
   
+11.
+( a.) Go to https://blog.bi0s.in/  and download the logo.png image using wget
+( b.) Do the same using curl
+ans:
+  wget https://blog.bi0s.in/logo.png
+  curl -o https://blog.bi0s.in/logo.png
+
+  
   12.
 ( a.) Ping google.com and find the lowest time taken to get a response (Stop pinging after getting 5 responses)
 
